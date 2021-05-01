@@ -20,6 +20,7 @@ FOR eng IN myVariable {
     }
 }.
 
+
 toggle AG2.
 
 set thrusttime to Time:SECONDS.
@@ -128,3 +129,5 @@ LOCK STEERING TO UP.
 
 
 wait until SHIP:ALTITUDE = 0.
+
+

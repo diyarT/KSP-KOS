@@ -1,8 +1,8 @@
 import sys
-
 import numpy
 import sympy as sympy
 from sympy import integrate
+
 
 pathToTimeTxtFile = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Kerbal Space Program\\Ships\\Script\\time.txt"
 pathToCompleteTimeTxtFile = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Kerbal Space Program\\Ships\\Script\\completeTime.txt"
